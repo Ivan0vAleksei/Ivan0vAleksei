@@ -48,7 +48,7 @@
 </ol>
 
 
-> <a href="https://drive.google.com/file/d/1_prLSHuW3e0FBjz-h-DcEtwDfCmWi435/view?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1STTSGlFaNtC3hNwXn8Ue7xgZHkbVERwt?usp=sharing">Ссылка на проект</a>
 > 
 > 
  
