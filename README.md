@@ -48,7 +48,7 @@
 </ol>
 
 
-> <a href="[https://crazychesl.atlassian.net/l/cp/jRz1S9Un](https://drive.google.com/file/d/1_prLSHuW3e0FBjz-h-DcEtwDfCmWi435/view?usp=sharing)">Ссылка на проект</a>
+> <a href="https://drive.google.com/file/d/1_prLSHuW3e0FBjz-h-DcEtwDfCmWi435/view?usp=sharing">Ссылка на проект</a>
 > 
 > 
  
