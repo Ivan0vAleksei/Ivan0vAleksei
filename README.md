@@ -48,9 +48,9 @@
 </ol>
 
 
-> <a href="https://crazychesl.atlassian.net/l/cp/jRz1S9Un">Ссылка на проект</a>
-> <p> логин: crazy_chesl@mail.ru </p>
-> <p> пароль: A2#JTa3?C(rX36Y </p>
+> <a href="[https://crazychesl.atlassian.net/l/cp/jRz1S9Un](https://drive.google.com/file/d/1_prLSHuW3e0FBjz-h-DcEtwDfCmWi435/view?usp=sharing)">Ссылка на проект</a>
+> 
+> 
  
  <p>Выводы (итоги):<p>
 <ol>
