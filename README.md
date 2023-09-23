@@ -13,7 +13,7 @@
 
 - :zap: Активно ищу работу стажера или junior тестировщика
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-crazyCHESL-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazyCHESL) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanovaleksey.work@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-crazyCHESL-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aleksei_1van0v) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanovaleksey.work@gmail.com)
 
 ---
 
